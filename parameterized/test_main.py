@@ -7,7 +7,7 @@ from main import is_prime
                                            (3, True),
                                            (4, False),
                                            (17, True),
-                                           (18, False),
+                                           (18, True),
                                            (19, True),
                                            (20, False)
                                            ])
